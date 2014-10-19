@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86c3b270-a3b1-434b-b7ea-217d5281b42e" name="Default" comment="" />
+    <ignored path="DesignPatterns.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Account.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374060199696" ignored="false" />
+    <file path="/fragment.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1376328072156" ignored="false" />
+    <file path="/AccountMyBuilder.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374060560760" ignored="false" />
+    <file path="/AccountMyTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374061047626" ignored="false" />
+    <file path="/PrintableListAdapter.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374064797770" ignored="false" />
+    <file path="/FacadeDemo.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374344404904" ignored="false" />
+    <file path="/ClassicSingletonTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374074284391" ignored="false" />
+    <file path="/ExampleCode.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374078190418" ignored="false" />
+    <file path="/ExampleCodeTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374077507416" ignored="false" />
+    <file path="/OperationStrategy.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374075954544" ignored="false" />
+    <file path="/AddStrategy.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374075989733" ignored="false" />
+    <file path="/MultStrategy.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374075929822" ignored="false" />
+    <file path="/DivStrategy.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374076006774" ignored="false" />
+    <file path="/MinusStrategy.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374076027911" ignored="false" />
+    <file path="/CreateStrategyFactory.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374078064095" ignored="false" />
+    <file path="/ConnectionPool.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374082601775" ignored="false" />
+    <file path="/Poolable.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374080090826" ignored="false" />
+    <file path="/Connection.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374080266976" ignored="false" />
+    <file path="/Client.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374081121993" ignored="false" />
+    <file path="/ConnectionPoolTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374082477548" ignored="false" />
+    <file path="/a.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374340783095" ignored="false" />
+    <file path="/sample.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374340781701" ignored="false" />
+    <file path="/a.cfm" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374340794719" ignored="false" />
+    <file path="/a.coffee" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374340795969" ignored="false" />
+    <file path="/ProductStrategy.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374344970234" ignored="false" />
+    <file path="/ThreeElement.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374350171658" ignored="false" />
+    <file path="/ClassicSingleton.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374350654523" ignored="false" />
+    <file path="/SingletonExampleTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374351534696" ignored="false" />
+    <file path="/SingletonExample.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374351690236" ignored="false" />
+    <file path="/SynchronizedAccessorSingleton.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374351798298" ignored="false" />
+    <file path="/OnDemandHolderIdiom.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374352001270" ignored="false" />
+    <file path="/AnimalFactoryTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374352447182" ignored="false" />
+    <file path="/Demo.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374352644283" ignored="false" />
+    <file path="/AbstractFactoryTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374390926362" ignored="false" />
+    <file path="/DogTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374392979024" ignored="false" />
+    <file path="/CompositeTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374394778645" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/lv/nikolay/designpatterns/creationaldesignpatterns/databuilder/account/Company.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374398432726" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/lv/nikolay/designpatterns/creationaldesignpatterns/databuilder/account/CompanyBuilder.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374398432726" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/lv/nikolay/designpatterns/creationaldesignpatterns/databuilder/account/AccountBuilder.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374398432726" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/lv/nikolay/designpatterns/creationaldesignpatterns/databuilder/account/AccountMyBuilder.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374398432726" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/lv/nikolay/designpatterns/creationaldesignpatterns/databuilder/account/Account.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374398432726" ignored="false" />
+    <file path="$PROJECT_DIR$/src/test/java/lv/nikolay/designpatterns/creationaldesignpatterns/databuilder/account/AccountMyTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374398432726" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/lv/nikolay/designpatterns/creationaldesignpatterns/databuilder/account/AccountStatus.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374398432726" ignored="false" />
+    <file path="$PROJECT_DIR$/src/test/java/lv/nikolay/designpatterns/creationaldesignpatterns/databuilder/account/AccountTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374398432726" ignored="false" />
+    <file path="/ProxyTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374400403270" ignored="false" />
+    <file path="/FlyweightTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374401154669" ignored="false" />
+    <file path="/BridgeTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374402380225" ignored="false" />
+    <file path="/вecorator.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374403268931" ignored="false" />
+    <file path="/DecoratorTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374403595076" ignored="false" />
+    <file path="/MealTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374404166634" ignored="false" />
+    <file path="/MediatorTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374405444702" ignored="false" />
+    <file path="/PlanetHandlerTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374406387830" ignored="false" />
+    <file path="/WeatherStationTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374411728203" ignored="false" />
+    <file path="/CommandTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374412899473" ignored="false" />
+    <file path="/EmotionalStateTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374413814710" ignored="false" />
+    <file path="/MenuTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374414241027" ignored="false" />
+    <file path="/DietInfoTest.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1374415201982" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1375041410590" ignored="false" />
+    <file path="/Dummy.txt" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1379444272376" ignored="false" />
+    <file path="/BackLogWorker.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1375004588240" ignored="false" />
+    <file path="/MainEntry.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1375017688091" ignored="false" />
+    <file path="/DirScanner.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1375023816123" ignored="false" />
+    <file path="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1375036444085" ignored="false" />
+    <file path="/ThreadPool.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1375024980256" ignored="false" />
+    <file path="/DirScannerPolled.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1375025798063" ignored="false" />
+    <file path="/WorkerThread.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1375027691086" ignored="false" />
+    <file path="/SimpleThread.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1375039609131" ignored="false" />
+    <file path="/SimpleThreadPool.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1375041326652" ignored="false" />
+    <file path="/WalkInTask.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1375028208230" ignored="false" />
+    <file path="/MultiThreadMatrixMult.java" changelist="86c3b270-a3b1-434b-b7ea-217d5281b42e" time="1376325802886" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="IntelliJIdea12/coverage/MultiThreads$MultiThreadMatrixMult.coverage" NAME="MultiThreadMatrixMult Coverage Results" MODIFIED="1376327524018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lv.nikolay.Matrix.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="IntelliJIdea12/coverage/MultiThreads$AsyncEvenMain.coverage" NAME="AsyncEvenMain Coverage Results" MODIFIED="1376327564345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lv.nikolay.syncasync.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/SyncEven.java" line="16" class="lv.nikolay.syncasync.SyncEven" package="lv.nikolay.syncasync">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="DesignPatterns" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MultiThreadMatrixMult.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/Matrix/MultiThreadMatrixMult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="44" selection-start="2098" selection-end="2098" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AsyncEven.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/AsyncEven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="54" selection-start="216" selection-end="216" vertical-scroll-proportion="0.3678474">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AsyncEvenMain.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/AsyncEvenMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sequence.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/Sequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SyncEvenMain.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/SyncEvenMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SyncEven.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/SyncEven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="5" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/lv/nikolay/syncasync/SyncEvenMainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/BackLogWorker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/BacklogWorker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/BacklogThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/WalkinTask1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/Poolable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/SingeThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/DirScannerPolled.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/WorkerThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/WalkInTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/DirScanner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/SimpleThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/MainEntry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/SimpleThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lv/nikolay/Matrix/MultiThreadMatrixMult.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="22" />
+    <option name="width" value="1276" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThreads" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThreads" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiThreads" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Background" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPatterns" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lv.nikolay.syncasync" />
+      <recent name="lv.nikolay.designpatterns.behavioraldesignpatterns.Memento" />
+      <recent name="lv.nikolay.designpatterns.behavioraldesignpatterns.iterator" />
+      <recent name="lv.nikolay.designpatterns.behavioraldesignpatterns.state" />
+      <recent name="lv.nikolay.designpatterns.behavioraldesignpatterns.command" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lv.nikolay.designpatterns.abstractfactory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lv.nikolay.syncasync" />
+      <recent name="lv.nikolay.designpatterns.behavioraldesignpatterns" />
+      <recent name="lv.nikolay.designpatterns.behavioraldesignpatterns.mediator" />
+      <recent name="lv.nikolay.designpatterns.creationaldesignpatterns" />
+      <recent name="lv.nikolay.designpatterns.structuraldesignpatterns" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AsyncEvenMain">
+    <configuration default="false" name="MainEntry" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lv.nikolay.directoryscanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lv.nikolay.directoryscanner.MainEntry" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MultiThreads" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DirScanner" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lv.nikolay.directoryscanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lv.nikolay.directoryscanner.DirScanner" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MultiThreads" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleThreadPool" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lv.nikolay.directoryscanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lv.nikolay.directoryscanner.SimpleThreadPool" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MultiThreads" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MultiThreadMatrixMult" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lv.nikolay.Matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lv.nikolay.Matrix.MultiThreadMatrixMult" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MultiThreads" />
+      <envs />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run with VisualVM" />
+      <ConfigurationWrapper RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Debug with VisualVM" />
+      <ConfigurationWrapper RunnerId="Run with VisualVM" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AsyncEvenMain" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lv.nikolay.syncasync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lv.nikolay.syncasync.AsyncEvenMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MultiThreads" />
+      <envs />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <RunnerSettings RunnerId="Run with VisualVM" />
+      <ConfigurationWrapper RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run with VisualVM" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.MainEntry" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DirScanner" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SimpleThreadPool" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MultiThreadMatrixMult" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AsyncEvenMain" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.AsyncEvenMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MultiThreadMatrixMult" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SimpleThreadPool" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DirScanner" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MainEntry" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86c3b270-a3b1-434b-b7ea-217d5281b42e" name="Default" comment="" />
+      <created>1374059751361</created>
+      <updated>1374059751361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="22" width="1276" height="778" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.7462006" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39969605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39969605" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.28115502" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.28115502" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2300813" sideWeight="0.60030395" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43617022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33577237" sideWeight="0.5638298" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32826748" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32674772" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/ATM/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="196" selection-end="196" vertical-scroll-proportion="0.17670158" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/ATM/ATM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="0" selection-start="1326" selection-end="1450" vertical-scroll-proportion="0.7177097" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/SimpleThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="67" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/DirScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="1932" selection-end="2026" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/MainEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="21" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/Even.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17" selection-start="48" selection-end="48" vertical-scroll-proportion="0.06960557" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/timer/AtomicCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="42" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.26914153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/timer/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="203" selection-end="203" vertical-scroll-proportion="0.31322506" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/timer/InputReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="9" selection-start="408" selection-end="849" vertical-scroll-proportion="0.9048724" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/directoryscanner/SimpleThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="19" selection-start="468" selection-end="474" vertical-scroll-proportion="0.036764707" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/Matrix/MultiThreadMatrixMult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="44" selection-start="2098" selection-end="2098" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/SyncEvenMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/SyncEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="5" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/AsyncEvenMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lv/nikolay/syncasync/AsyncEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="54" selection-start="216" selection-end="216" vertical-scroll-proportion="0.3678474">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MultiThreads</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
